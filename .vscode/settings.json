@@ -1,0 +1,6 @@
+{
+    "python.formatting.provider": "autopep8",
+    "python.pythonPath": "C:/Users/Administrator/AppData/Local/Programs/Python/Python310",
+    // "python.envFile": "${workspaceFolder}/.env",
+    "terminal.integrated.env.windows": {"PYTHONPATH":"${workspaceFolder};${env:PYTHONPATH}"}
+}
